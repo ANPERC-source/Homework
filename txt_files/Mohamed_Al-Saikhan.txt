@@ -1,0 +1,40 @@
+Drafted by: Mohamed K. Al-Saikhan
+KAUST ID: 184248
+
+09/03/2021
+ERPE200
+
+As we continue to march forward into the 21st century, technologies have become in the center of
+everything. It is now the base on which education, healthcare, transportation, communication, entertainment
+and many other industries and systems are built. The exponential advancements of the networking
+technologies over the past ten years have produced the world’s largest digital store by Amazon, largest car
+rental company by Uber, largest home rental company by Airbnb, autopiloted cars by Tesla, largest
+communication company by WhatsApp, largest media content platform by Netflex, most valuable digital
+currency by Bitcoin, and the largest cloud meeting company by Zoom. Companies and governments have
+also exploited the utilization of this advancement to serve their needs, be it on driving down cost per unit,
+reducing non-productive time, enhancing security, integrating systems, decision making and so on.
+Certainly, with every new change, new challenges arise. As we are becoming more dependent on
+technologies, we are more cyberly vulnerable not only as individuals, but also as societies and institutions.
+But why should we care?
+In 2012, Saudi Aramco, the company I work for, was attacked by Shamoon virus, which had
+compromised several facilities as soon as it breached into one of the employee’s computers. I have
+personally witnessed the extent of damage this attack had caused wiping out years’ worth of work and
+temporarily seizing operations in certain areas, surly it was not a pleasant experience at all. A lot of lessons
+learned were pointed out and stringent measures were put in place afterword, but even attackers can get
+more creative with time. Another notable example in 2017 was the ransomware attack on the UK’s National
+Healthcare Systems database putting many hospitals across the country in paralysis for few days. My older
+sister Lamya, who was an echocardiography specialist at Hammersmith Hospital in London at the time had
+descried the attack as “scary”.
+Cyberwarfare is an emerging unconventional threat, which can be posed by either an individual or
+a group of individuals using affordable means that are not necessarily exclusive for governments or
+companies. It is true that many governments have realized the immense need of improved capabilities to
+counter these increased attacks and protect the integrity of their systems, some governments have even
+appointed chiefs for cyber security. However, amid an era that craves on collecting and analyzing
+tremendous amount of data, the means to compromise this process through manipulation and theft can
+potentially get “scarier”. Think about jamming the GPS system, whereby thousands of daily flights are
+using to draw routes to their final destinations, what about the damage of manipulating inputs in our semiautomated oil and gas processing facilities, what about attacking governments servers storing citizens
+database, or exposing the banking systems or even your own private data. This is what concerns me the
+most. The evolving tools of the cyberwarfare can get as destructive as a nuclear bomb. And no matter how
+thick or protected a house font door is, an innocent kid can let a thief in.
+
+
